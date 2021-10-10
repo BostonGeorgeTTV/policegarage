@@ -4,8 +4,6 @@ Police garage with full kit vehicle spawn option, livery and extras. Spawn helic
 
 ### Requirements
 - progressBar
-### Optional
-- okokNotify
 
 You can get Hamza8700 version of `progressBar` from his github repository:
 https://github.com/Hamza8700/fivem_scripts
