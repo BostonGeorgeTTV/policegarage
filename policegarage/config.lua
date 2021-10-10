@@ -164,7 +164,7 @@ Config.Progress2 = "CLEAN VEHICLE"
 
 -- ProgressBar Timers, in seconds:
 Config.RepairTime = 5					-- time to repair vehicle
-Config.CleanTime = 5					-- time to clean vehicle
+Config.CleanTime = 3.5					-- time to clean vehicle
 
 Config.VehicleLoadText = "Wait for the ~r~vehicle!"			-- text on screen when vehicle model is being loaded
 
